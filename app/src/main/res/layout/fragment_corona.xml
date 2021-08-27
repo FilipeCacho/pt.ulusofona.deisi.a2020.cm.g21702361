@@ -9,7 +9,9 @@
         <ImageView
             android:layout_width="200dp"
             android:layout_height="200dp"
-            android:id
+            android:id="@+id/iv_corona"
+            android:src="@drawable/corona_black"
+            android:layout_centerInParent="true"/>
 
     </RelativeLayout>
 </FrameLayout>

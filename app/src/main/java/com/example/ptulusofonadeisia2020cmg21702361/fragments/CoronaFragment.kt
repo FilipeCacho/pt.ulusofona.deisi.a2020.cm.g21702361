@@ -13,6 +13,6 @@ class CoronaFragment : Fragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? = inflater.inflate(R.layout.fragment_corona, container)
+    ): View? = inflater.inflate(R.layout.fragment_corona, container,false)
 
 }

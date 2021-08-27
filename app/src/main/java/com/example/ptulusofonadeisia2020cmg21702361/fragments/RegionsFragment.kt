@@ -13,6 +13,6 @@ class RegionsFragment : Fragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? = inflater.inflate(R.layout.fragment_regions, container)
+    ): View? = inflater.inflate(R.layout.fragment_regions, container,false)
 
 }

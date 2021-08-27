@@ -13,6 +13,6 @@ class TestFragment : Fragment() {
         inflater: LayoutInflater,
         container: ViewGroup?,
         savedInstanceState: Bundle?
-    ): View? = inflater.inflate(R.layout.fragment_test, container)
+    ): View? = inflater.inflate(R.layout.fragment_test, container,false)
 
 }
