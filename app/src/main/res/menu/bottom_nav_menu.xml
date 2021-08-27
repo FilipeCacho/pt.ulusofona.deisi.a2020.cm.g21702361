@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/nav_corona"
+        android:icon="@drawable/corona_black"
+        android:title="Casos"/>
+
+    <item android:id="@+id/nav_region"
+        android:icon="@drawable/region_black"
+        android:title="Regiões"/>
+
+    <item android:id="@+id/nav_home"
+        android:icon="@drawable/home_black"
+        android:title="Home"/>
+
+    <item android:id="@+id/nav_test"
+        android:icon="@drawable/test_black"
+        android:title="Testes"/>
+
+    <item android:id="@+id/nav_settings"
+        android:icon="@drawable/settings_black"
+        android:title="Definições"/>
+</menu>
